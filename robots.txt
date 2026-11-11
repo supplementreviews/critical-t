@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://critical-t.vercel.app/sitemap.xml
